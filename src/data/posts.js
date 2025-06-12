@@ -71,8 +71,8 @@ export const posts = [
   },
   {
     id:7,
-    title: "History Of SkyDiving",
-    excerpt: "This post will give you Tips & Trick to sur.fing",
+    title: "Learn How To SkyDiving",
+    excerpt: "This post will give you information about the history of skydiving",
     content: "The history of skydiving began long before it became the popular sport it is today. The idea of ​​falling from a height with the aid of a device that can float in the air has been around for a long time, with early examples in China and Leonardo da Vinci. However, modern skydiving, which involves freefall and the use of more sophisticated parachutes, developed more slowly. ",
     date: "2025-03-23",
     category: "Sky Diving",
@@ -81,7 +81,7 @@ export const posts = [
    {
     id:8,
     title: "Tips & Trick.",
-    excerpt: "This post will give you Tips & Trick to ",
+    excerpt: "This post will give you Tips & Trick about skydiving ",
     content: "Skydiving is an athletic activity, and it’s important to dress the part. You’ll find yourself in many different positions at various points in your skydive, so you want to wear clothes that are comfortable and easy to move around in. Think of dressing for the gym. How are you going to do any skydiving tricks if you are wearing tight, uncomfortable clothing?! You don’t want anything that will restrict you from bending over or arching your back, and you want to be comfortable when you are riding up in the plane. Is it better to wear shorts or pants when skydiving? Pants, for a few different reasons. Even if it’s hot on the ground, the temperature at altitude is much cooler – and 120 mph wind adds to that chill, so it’s best to have your arms and legs covered during your jump. You also want to consider your landing when deciding what to wear. There is a good chance you will be sliding in on your butt, so having pants to cover your legs is a good idea. Check out these landing tips to see what we mean. You are probably asking yourself, “how do I calm my nerves before skydiving?” The short answer is, that’s up to you! Everyone deals with stress differently, and only you really know what helps keep you calm. However, there are some common ways to help with nerves on your big day and prepare for your first skydive. One of the best tips before skydiving is to think about breathing. Effective breathing helps regulate stress in your body and mind, and it gives you something to focus on other than what you are about to do. Deep, consistent breaths will keep you focused and oxygenated, allowing your mind to relax. You can also use this breathing to practice for your skydive. Continuing the controlled, rhythmic breathing throughout your jump will keep you calm, cool, and collected, and allow you to focus on the amazing experience! In case you were wondering, you can breathe while skydiving. You can also spend time doing whatever it is that helps you de-stress before you come to the dropzone the day of your jump. Whether it’s running, yoga, talking to a friend, or reading a book, anything helps! Set aside time that morning to focus on yourself and get your head in the right place. Reading reviews from people who jumped before you might help, too!",
     date: "2025-03-23",
     category: "Sky Diving",
@@ -89,8 +89,8 @@ export const posts = [
   },
    {
     id:9,
-    title: "Learn How To SkyDiving.",
-    excerpt: "This post will give you Tips & Trick to surfing",
+    title: "History How To SkyDiving.",
+    excerpt: "This post will give you a lesson about skydiving",
     content: "To learn skydiving, you'll typically follow a structured program like Accelerated Freefall (AFF). AFF involves a day of ground school, followed by a series of supervised jumps where you'll gradually learn freefall techniques, parachute deployment, and landing skills. ",
     date: "2025-03-23",
     category: "Sky Diving",
@@ -108,7 +108,7 @@ export const posts = [
    {
     id:11,
     title: "Tips & Trick.",
-    excerpt: "This post will give you Tips & Trick to surfing",
+    excerpt: "This post will give you Tips & Trick skateboard",
     content: "Bend Your Knees Maintaining a low and relaxed stance is essential for all skateboarding tricks as it gives you the ability to adjust your balance quickly in any situation. By bending your knees, you can absorb shocks and maintain your balance on the board, making it easier to control and maneuver. Be Determined Practice and dedication are key to learning how to skate. Don't expect to be good right away, as skateboarding can be difficult and takes time to master. Remember that the challenge is part of what makes skateboarding so gratifying and keep pushing yourself to improve. Be Ready to Fall Falling is an unavoidable part of skateboarding. It's important to invest in a helmet and protective gear such as knee pads and elbow pads to protect yourself from injury. Being prepared to fall and knowing how to do so safely can help you keep skating and falling for life. Use Quality Equipment Skateboards from department stores may have poor-quality parts and not perform as well as boards from actual skate companies. This can be frustrating and make learning to skate discouraging. Invest in quality gear from top skate brands to ensure that your skateboard performs well and is durable. This includes your skate deck, but also your trucks, wheels and skate hardware.  ",
     date: "2025-03-23",
     category: "SkateBoard",
@@ -117,7 +117,7 @@ export const posts = [
    {
     id:12,
     title: "History of skateboard.",
-    excerpt: " ",
+    excerpt: "This post will give you information history of skateboard",
     content: "By the early 1950s, surfing can be traced as the source of skateboarding. Some surfers had the idea to transfer the feeling of riding waves onto the streets to defy times of days with a gentle swell. Not without any reason these dudes were called “asphalt surfers”. At two spots in the world a kind of a skateboard was developed at the first time in the early 1950s: California and Hawaii. They used shorter surfboards and wheels made out of metal without some bearings. In the late 1950s, skateboarding had a first peak. During the post-war period, the U.S. economy boomed and this also affected the toy industry. During that time, the toy industry became aware of the board with wheels. In 1959, Roller Derby released the first official skateboard with some new technical developments. Thereby, the handling characteristics have been improved. For this reason, skateboarders were able to develop new tricks and maneuvers. Between the years 1959 and 1965, skateboarding became more and more popular in the United States. Particularly affected were the states on the east and west coasts. Due to the industrial development, the skateboard’s status changed from toy to sports equipment. In 1962, the surf shop “Val-Surf” in Hollywood sold the first self-produced skateboards. These boards featured a typical surfboard shape and roller skate trucks and were sold as complete boards. In the same year, the company Patterson Forbes developed the first industrially produced complete boards with more developed trucks. In 1963, the publisher of the “Surf Guide Magazine” Larry Stevenson released the first advertisement for skateboards in his magazine. Also the clothing industry specialized more and more on skateboarding. One of the most famous skateboarding shoe brand named Vans was established in 1966. From this day on, Vans supported skateboarders from all over the world. Especially shoe companies like Vans, Etnies, Converse and DC Shoes developed and manufactured skateboarding related footwear and streetwear. ",
     date: "2025-03-23",
     category: "SkateBoard",
@@ -135,7 +135,7 @@ export const posts = [
    {
     id:14,
     title: "Tips & Trick.",
-    excerpt: "This post will give you Tips & Trick to surfing",
+    excerpt: "This post will give you Tips & Trick paragliding",
     content: "The best way to get into paragliding is to take an introductory course. This introduction will allow you to escape for a moment and discover the benefits of this sport. Everyone has always wondered what birds feel while flying, right? This is the chance to find out through a sensational experience: a two-seater paragliding flight. So the paragliding introduction takes place with an instructor who will oversee the flight from take-off to landing. You can ask them any questions you wish. They're there to explain the steps involved in a flight. Do you want to take your interest in this sport further? We therefore recommend you do an introductory course. It will allow you to gradually get a flavour of paragliding, be introduced to and learn how to use the equipment. You will learn the take-off and landing rules, learn the safety rules, and take your first solo flight. Most paragliding schools offer courses lasting between one and five days. At the beginning of the course, you will be accompanied by an instructor who will guide you and give you both theoretical and practical courses to help you become independent and to pilot your paraglider like a boss! Don't panic, on your first flights, you will be guided by radio with an instructor at the end of the line. One instructor stays at the take-off location and another at the landing site. However, doing an introductory course does not mean that you will be able to fly perfectly, especially not at all paragliding sites and in all weather conditions. It is important to remember that a pilot only feels truly ready and comfortable to handle their canopy after at least three courses. Do not hesitate to take several courses, including a more advanced course after your initiation. This will not only allow you to gain confidence in the air but also fly with greater peace of mind and in complete safety.",
     date: "2025-03-23",
     category: "Paragliding",
@@ -143,8 +143,8 @@ export const posts = [
   },
    {
     id:15,
-    title: "Learn How To Paragliding.",
-    excerpt: "This post will give you Tips & Trick to surfing",
+    title: "History of Paragliding.",
+    excerpt: "This post will give you a lesson about paragliding",
     content: "The origin of paragliding has roots in the sport of parachuting. In the early 1960’s, American parachutist Pierre Lemoigne was successful in cutting slots in the round parachute canopy to allow for air to flow through the canopy. This had a dramatic effect on the lift to drag ratio and allowed for the pilot to steer the chute in a predictable manner. In 1962, Walter Newmark of England took note of Lemoigne’s design and modified it so the chute could be towed aloft. During the 60’s, parascending become a popular sport amongst the English. Newmark was responsible for the creation of the British Association of Parascending in the early 1970’s. In 1964, Domina Jalbert of Florida invented a square canopy called the Ram Air Para Foil. The Ram Air worked by allowing air to pass through the double surface glider allowing for better maneuverability and increased lift. Walter Newmark soon adopted this canopy for his parascending activities. Not until the 1970’s did the sport take off. The popularity of paragliding arose when pilots in the French town of Mieussy successfully launched the wing by running down the hillsides of the Alps. Andre Bohn and Gerard Bosson were mostly responsible for developing the sport into how it is today. Bosson introduced paragliding at the 1979 World Hang Gliding Championships. It was not long until paragliding schools were opening up around the world.",
     date: "2025-03-23",
     category: "Paragliding",
